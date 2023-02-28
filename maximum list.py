@@ -4,3 +4,4 @@ c =[]
 d = [max(a), max(b)]
 print("The maximun numbers between 'a' and 'b' are :")
 print(d)
+print("The work is done now")
